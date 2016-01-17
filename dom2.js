@@ -1,9 +1,7 @@
 
 function log(text) {
 
-	var ta = document.getElementsByTagName("textarea")[0];
-
-	ta.innerText = text;
+	document.getElementsByTagName("textarea")[0].innerText = text;
 
 
 }
