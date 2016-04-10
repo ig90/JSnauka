@@ -1,0 +1,5 @@
+.idea/
+
+*.pdf  // jeśli nie chcemy wrzucać pfdów
+
+images/*.psd  // nie wrzuci psd z katalogu imagess

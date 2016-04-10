@@ -1,0 +1,33 @@
+ html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+#bttn{
+	text-align:center;
+	margin-bottom: 5px;
+}
+.wrapper{
+	width:80%;
+	margin: 0 auto;
+}
+
+#div1{
+   background-color: red;
+}
+#div2{
+   background-color: black;
+}
+#div3{
+   background-color: black;
+}
+#div4{
+   background-color: red;
+}
+.box{
+   width:49%;
+   height:300px;
+ /*  margin: 20px; */
+   display: inline-block;
+}
